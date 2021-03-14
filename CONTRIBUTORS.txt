@@ -9,4 +9,6 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Manuel Outeiriño (manoutbar@alum.us.es)
+- Borja Vera Casal (borvercas@us.es)
 - Tomás Francisco Rodríguez Rodríguez (tomrodrod@alum.us.es)
